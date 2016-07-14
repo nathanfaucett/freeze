@@ -1,5 +1,5 @@
-var isNative = require("is_native"),
-    emptyFunction = require("empty_function");
+var isNative = require("@nathanfaucett/is_native"),
+    emptyFunction = require("@nathanfaucett/empty_function");
 
 
 var nativeFreeze = Object.freeze;
